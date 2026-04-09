@@ -19,7 +19,7 @@ export INTERESTS="Startups, AI, Machine Learning, Cybersecurity"
 
 # 🌱 Current Processes
 ps -ef | grep "Learning"
-# -> Python & JavaScript environments ACTIVE.
+# -> Python & JavaScript & C++ environments ACTIVE.
 
 # 🤝 Connections
 netstat -an | grep "Collab"
@@ -39,10 +39,6 @@ ping -c 1 diago@pm.me
 
 ### 📊 `>_ cat /var/log/github_stats.log`
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agodianel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=a9b1d6" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agodianel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B266FF&text_color=a9b1d6" height="150" alt="languages graph"  />
-</div>
 
 <br>
 
@@ -52,5 +48,5 @@ ping -c 1 diago@pm.me
 
 ---
 <div align="center">
-  <sub><i>"The quietest people have the loudest minds."</i> — End of Transmission.</sub>
+  <sub><i>"The quietest people have the loudest minds."</i> - End of Transmission.</sub>
 </div>
