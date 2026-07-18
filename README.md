@@ -1,4 +1,4 @@
-<center>[![GitHub Streak](https://streak-stats.demolab.com?user=agodianel&theme=dark&card_width=800&card_height=300)](https://git.io/streak-stats)</center>
+<div align="cente">[![GitHub Streak](https://streak-stats.demolab.com?user=agodianel&theme=dark&card_width=800&card_height=300)](https://git.io/streak-stats)</div>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=%3E_SYSTEM+INITIALIZED...;%3E_ACCESS+GRANTED%3A+%40agodianel;%3E_BUILDING+AI+%26+CYBERSECURITY;%3E_AWAITING+INPUT..." alt="Typing Terminal" />
